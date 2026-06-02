@@ -1,2 +1,13 @@
-# Netflix_clone
-Created with CodeSandbox
+🎬 Netflix Clone
+📌 Description
+A responsive frontend clone of Netflix built using HTML, CSS, and JavaScript.
+
+🚀 Features
+Responsive design
+Movie rows layout
+Hover animations
+Clean UI
+🛠 Tech Stack
+HTML
+CSS
+JavaScript
